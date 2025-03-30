@@ -149,7 +149,7 @@ Click “Create / Reset Database” on the setup page, then log in again.
 ### OPTIONAL: 4. Configure host-only network
 
 <div align="center">
-    <img src="https://github.com/j0wittmann/Attacking-DVWA/blob/main/screenshots/Network%20Plan.png" alt="Network Plan" width="500">
+    <img src="https://github.com/j0wittmann/Attacking-DVWA/blob/main/Network%20Plan.png" alt="Network Plan" width="500">
 </div>
 
 This setup uses two virtual machines:
