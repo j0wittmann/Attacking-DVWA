@@ -1,14 +1,16 @@
 # Attacking DVWA: A Walkthrough of Common Web Exploits
 
-**DVWA (Damn Vulnerable Web Application)** is an intentionally vulnerable web app for practicing common web exploits in a safe environment.
+[**DVWA (Damn Vulnerable Web Application)**](https://github.com/digininja/DVWA) is an intentionally vulnerable web app for practicing common web exploits in a safe environment.
 In this repository, DVWA is set up locally and each vulnerability is explained with practical examples.
 
----
+<div align="center">
+    <img src="https://github.com/j0wittmann/Attacking-DVWA/blob/main/DVWA.png" alt="DVWA Logo" width="300">
+</div>
 
 ## Project Structure
 
 <div align="center">
-    <img src="https://github.com/j0wittmann/Attacking-DVWA/blob/main/project-structure.png" alt="Project Structure" width="150">
+    <img src="https://github.com/j0wittmann/Attacking-DVWA/blob/main/project-structure.png" alt="Project Structure" width="140">
 </div>
 
 All challenge walkthroughs can be found in the `vulnerabilities` directory.  
