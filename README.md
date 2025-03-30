@@ -3,8 +3,18 @@
 **DVWA (Damn Vulnerable Web Application)** is an intentionally vulnerable web app for practicing common web exploits in a safe environment.
 In this repository, DVWA is set up locally and each vulnerability is explained with practical examples.
 
+---
 
-## Setting up
+## Project Structure
+
+<div align="center">
+    <img src="https://github.com/j0wittmann/Attacking-DVWA/blob/main/project-structure.png" alt="Project Structure" width="150">
+</div>
+
+All challenge walkthroughs can be found in the `vulnerabilities` directory.  
+Each vulnerability contains a `low.md`, `mid.md`, and `high.md` file, matching the DVWA security levels.
+
+## Setting up DVWA
 
 ### 1. Create two virtual machines
 Set up two virtual machines (e.g., Kali Linux or Ubuntu).
