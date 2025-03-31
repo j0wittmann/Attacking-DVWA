@@ -149,7 +149,7 @@ sudo systemctl restart apache2
 
 Open:
 - http://127.0.0.1/DVWA
-- or http://localhost/DVW
+- or http://localhost/DVWA
 
 Login with your credentials.
 Click “Create / Reset Database” on the setup page, then log in again.
